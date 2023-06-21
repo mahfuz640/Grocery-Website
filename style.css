@@ -77,3 +77,9 @@ body{
     margin-right: .3rem;
     text-align:center;
 }
+
+.header .icon div:hover{
+    background: var(--orange);
+    color: #fff;
+}
+
